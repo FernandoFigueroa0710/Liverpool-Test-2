@@ -1,0 +1,5 @@
+.eslint*
+**/node_modules
+**/*.min.js
+client/data/*
+compiled/
