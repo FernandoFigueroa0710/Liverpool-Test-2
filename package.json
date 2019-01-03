@@ -1,0 +1,26 @@
+{
+  "name": "liverpool-test-2",
+  "version": "1.0.0",
+  "description": "a test 2 for the liverpool technical test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoFigueroa0710/Liverpool-Test-2.git"
+  },
+  "keywords": [
+    "rect",
+    "javascript"
+  ],
+  "author": "Fernando Adan Figueroa Abraca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoFigueroa0710/Liverpool-Test-2/issues"
+  },
+  "homepage": "https://github.com/FernandoFigueroa0710/Liverpool-Test-2#readme",
+  "dependencies": {
+    "react": "^16.7.0"
+  }
+}
